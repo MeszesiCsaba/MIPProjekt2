@@ -1,0 +1,16 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\AdministratieMagazine.exe.config
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\AdministratieMagazine.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\AdministratieMagazine.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\EntityFramework.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\System.Data.SQLite.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\EntityFramework.xml
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.csproj.AssemblyReference.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.Properties.Resources.resources
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.csproj.GenerateResource.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\Administ.87B582DF.Up2Date
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\AdministratieMagazine\AdministratieMagazine\obj\Debug\AdministratieMagazine.pdb
